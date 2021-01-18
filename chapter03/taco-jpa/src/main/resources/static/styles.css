@@ -1,0 +1,9 @@
+@charset "UTF-8";
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+span.validationError {
+  color: red;
+}
